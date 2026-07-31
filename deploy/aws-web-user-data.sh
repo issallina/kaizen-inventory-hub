@@ -8,7 +8,7 @@ exec > >(
 ) 2>&1
 
 APP_DIR="/opt/kaizen-inventory-hub"
-REPO_URL="https://github.com/YOUR_GITHUB_USERNAME/kaizen-inventory-hub.git"
+REPO_URL="https://github.com/issallina/kaizen-inventory-hub.git"
 GIT_BRANCH="main"
 
 export DEBIAN_FRONTEND=noninteractive
